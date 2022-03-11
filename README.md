@@ -6,8 +6,8 @@ Here, in my github account, you can find some of my projetcs and studies.
 
 <div align="center">
   <a href="https://github.com/Luizgs7">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luizgs7&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizgs7&layout=compact&langs_count=7&theme=dark">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizgs02&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizgs02&layout=compact&langs_count=7&theme=dark">
 </div>  
   
 ## Techs that a like to use:  
